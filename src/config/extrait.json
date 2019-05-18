@@ -1,0 +1,52 @@
+{
+	"status": "ok",
+	"totalResults": 3,
+	"markers": [
+		{
+			"id": 1,
+			"entity": {
+				"id": 1,
+				"name": "Association 1"
+			},
+			"categories": ["Nourriture"],
+			"contact": {
+				"telephone": "0102030405",
+				"mail": "mail_1@mail.com"
+			},
+			"address": {
+				"coords": {
+					"latitude": 48.8287803,
+					"longitude": 2.2613824
+				},
+				"text": "35 Rue Camille Desmoulins, 92130 Issy-les-Moulineaux"
+			},
+			"distance": 170,
+			"links": {
+				"website": "https://www.subway.com/fr-fr/"
+			}
+		},
+		{
+			"id": 2,
+			"entity": {
+				"id": 2,
+				"name": "Association 2"
+			},
+			"categories": ["Nourriture", "Vêtements"],
+			"contact": {
+				"telephone": "0123456789",
+				"mail": "mail_2@mail.com"
+			},
+			"address": {
+				"coords": {
+					"latitude": 48.8285653,
+					"longitude": 2.2604533
+				},
+				"text": "146 Quai de la Bataille de Stalingrad, 92130 Issy-les-Moulineaux"
+			},
+			"distance": 160,
+			"links": {
+				"website": "https://rivercafe.paris/"
+			}
+		}
+	]
+}
