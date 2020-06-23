@@ -17,7 +17,7 @@
     "react-navigation-animated-switch": "^0.1.2"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^8.2.3"
   },
   "private": true
 }
